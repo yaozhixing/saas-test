@@ -1,7 +1,6 @@
 <template>
   <h2>agent title</h2>
-</template>
-
+  <div>agent content</div>
 <script>
 export default {
   name: AgentIndex
